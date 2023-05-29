@@ -1,3 +1,3 @@
 # SocialMediaApp
 
-Node js with sequlize 
+SocialMediaApp backend created using Node js with sequlize  
